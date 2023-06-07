@@ -14,6 +14,7 @@ module.exports = {
     camelcase: 'off',
     'class-methods-use-this': 0,
     'no-param-reassign': 'off',
+    'treatUndefinedAsUnspecified': true,
     'prettier/prettier': [
       'error',
       {
